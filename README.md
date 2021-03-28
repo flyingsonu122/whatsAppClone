@@ -1,6 +1,9 @@
 # whatsAppClone
 
-check here live demo [flyingsonu122.github.io/whatsAppClone](https://flyingsonu122.github.io/whatsAppClone/)
+![image](https://user-images.githubusercontent.com/51280276/112755717-97bb5080-8fff-11eb-9d7e-00d8ad283c92.png)
+
+
+check live demo **[flyingsonu122.github.io/whatsAppClone](https://flyingsonu122.github.io/whatsAppClone/)**
 
 
 
